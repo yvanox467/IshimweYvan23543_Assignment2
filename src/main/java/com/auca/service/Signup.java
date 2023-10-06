@@ -10,8 +10,8 @@ import javax.servlet.http.HttpServletResponse;
 
 
 public class Signup extends HttpServlet{
-	private static final String CORRECT_USERNAME = "auca.marius@auca.rw";
-	private static final String CORRECT_PASSWORD = "Auca@2022";
+	private static final String CORRECT_USERNAME = "auca.yvan@auca.rw";
+	private static final String CORRECT_PASSWORD = "Yvanox@2020";
 
 	public void doPost(HttpServletRequest req, HttpServletResponse res) 
 			throws ServletException, IOException{

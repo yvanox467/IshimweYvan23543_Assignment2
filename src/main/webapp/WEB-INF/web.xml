@@ -15,7 +15,7 @@
 	</servlet-mapping>
 	<servlet>
 		<servlet-name>Submit</servlet-name>
-		<servlet-class>com.auca.service.Submission</servlet-class>
+		<servlet-class>com.auca.service.Submit</servlet-class>
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>Submit</servlet-name>

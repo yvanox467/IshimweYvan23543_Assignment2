@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.Part;
 
 @MultipartConfig
-public class Submission extends HttpServlet{
+public class Submit extends HttpServlet{
 	protected void doPost(HttpServletRequest req, HttpServletResponse res) 
 			throws ServletException, IOException{
 		String email = req.getParameter("email");
